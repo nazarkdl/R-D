@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
   res.send('Hello from the backend!');
 });
 
-// New route to test database connection and query data from test_table
+// New route to testS database connection and query data from test_table
 app.get('/test-db', async (req, res) => {
   try {
     // Query the data from the test_table
