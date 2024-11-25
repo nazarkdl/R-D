@@ -8,7 +8,7 @@ import React from "react";
 const Signin = () => {
   return (
     <div>
-      <SectionTitle classname="mt-20  mb-5" text="Welcome back !" />
+      <SectionTitle classname="mt-20  mb-5" text="Welcome back bro !" />
       <SignupForm mode="Signin" />
       <AuthLink
         text="Don't have an account yet ?"
